@@ -1,0 +1,26 @@
+<annotation>
+	<folder>audi a7 - Google Arama</folder>
+	<filename>2018 Audi A7 Sportback ve öne çıkan tüm yeni.jpg</filename>
+	<path>D:\.MrHolo\Projeler\TOGG\bizim_egittimiz_model\images\audi a7 - Google Arama\2018 Audi A7 Sportback ve öne çıkan tüm yeni.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>562</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Audi A7</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>36</ymin>
+			<xmax>880</xmax>
+			<ymax>511</ymax>
+		</bndbox>
+	</object>
+</annotation>

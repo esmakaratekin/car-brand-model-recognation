@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nissan q - Google Arama</folder>
+	<filename>2. El 2016 Model Beyaz_ Nissan Qashqai 190.000 TL _ Tasit.com.jpg</filename>
+	<path>D:\.mrholo\EgitimModeli\images\nissan q - Google Arama\2. El 2016 Model Beyaz_ Nissan Qashqai 190.000 TL _ Tasit.com.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nissan Qashqai</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>132</xmin>
+			<ymin>117</ymin>
+			<xmax>595</xmax>
+			<ymax>442</ymax>
+		</bndbox>
+	</object>
+</annotation>

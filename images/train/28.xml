@@ -1,0 +1,26 @@
+<annotation>
+	<folder>audi a7 - Google Arama</folder>
+	<filename>2018 Yeni Audi A7 Sportback 50 3.0 TDI 286 HP Quattro Tiptronic (4x4)	Özellikleri - Epey.jpg</filename>
+	<path>D:\.MrHolo\Projeler\TOGG\bizim_egittimiz_model\images\audi a7 - Google Arama\2018 Yeni Audi A7 Sportback 50 3.0 TDI 286 HP Quattro Tiptronic (4x4)	Özellikleri - Epey.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>154</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Audi A7</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>320</xmax>
+			<ymax>154</ymax>
+		</bndbox>
+	</object>
+</annotation>

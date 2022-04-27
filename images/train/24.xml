@@ -1,0 +1,26 @@
+<annotation>
+	<folder>audi a7 - Google Arama</folder>
+	<filename>2015 Audi A7 Sportback (C7 facelift 2014) 3.0 TDI V6 (190 bg) quattro S	tronic Liftback 5 Kapı Teknik Özellikleri ve Yakıt Tüketimi.jpg</filename>
+	<path>D:\.MrHolo\Projeler\TOGG\bizim_egittimiz_model\images\audi a7 - Google Arama\2015 Audi A7 Sportback (C7 facelift 2014) 3.0 TDI V6 (190 bg) quattro S	tronic Liftback 5 Kapı Teknik Özellikleri ve Yakıt Tüketimi.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Audi A7</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>197</ymin>
+			<xmax>748</xmax>
+			<ymax>461</ymax>
+		</bndbox>
+	</object>
+</annotation>

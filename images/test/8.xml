@@ -1,0 +1,26 @@
+<annotation>
+	<folder>seat ibiza - Google Arama</folder>
+	<filename>Seat - İbiza - İkinci El Satılık Seat Ibiza_ (1).jpg</filename>
+	<path>D:\.mrholo\EgitimModeli\images\seat ibiza - Google Arama\Seat - İbiza - İkinci El Satılık Seat Ibiza_ (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SEAT IBIZA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>97</ymin>
+			<xmax>721</xmax>
+			<ymax>413</ymax>
+		</bndbox>
+	</object>
+</annotation>

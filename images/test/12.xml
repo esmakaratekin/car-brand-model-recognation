@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nissan q - Google Arama</folder>
+	<filename>Nissan _ Qashqai_2 _ 1.6 _ Tekna Pack _ 2011 MODEL NİSSAN Q_2 7 KİŞİLİK	__SADECE 79 BİN DE __HATASIZ__ sahibinden.comda - 874336776.jpg</filename>
+	<path>D:\.mrholo\EgitimModeli\images\nissan q - Google Arama\Nissan _ Qashqai_2 _ 1.6 _ Tekna Pack _ 2011 MODEL NİSSAN Q_2 7 KİŞİLİK	__SADECE 79 BİN DE __HATASIZ__ sahibinden.comda - 874336776.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nissan Qashqai</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>42</ymin>
+			<xmax>459</xmax>
+			<ymax>329</ymax>
+		</bndbox>
+	</object>
+</annotation>

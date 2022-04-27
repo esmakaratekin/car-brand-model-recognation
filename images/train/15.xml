@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mitsubishi lancer - Google Arama</folder>
+	<filename>2003-2006 Mitsubishi Lancer Evolution 2.0T Evo _ Araba Teknik Bilgi.jpg</filename>
+	<path>D:\.MrHolo\Projeler\TOGG\bizim_egittimiz_model\images\mitsubishi lancer - Google Arama\2003-2006 Mitsubishi Lancer Evolution 2.0T Evo _ Araba Teknik Bilgi.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mitsubishi lancer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>84</ymin>
+			<xmax>672</xmax>
+			<ymax>371</ymax>
+		</bndbox>
+	</object>
+</annotation>

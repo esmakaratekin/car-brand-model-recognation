@@ -1,0 +1,26 @@
+<annotation>
+	<folder>audi a7 - Google Arama</folder>
+	<filename>2011 Audi A7 Sportback (C7) 3.0 BiTDI V6 (313 bg) quattro Tiptronic _	Teknik özellikler_ yakıt tüketimi _ Boyutlar.jpg</filename>
+	<path>D:\.MrHolo\Projeler\TOGG\bizim_egittimiz_model\images\audi a7 - Google Arama\2011 Audi A7 Sportback (C7) 3.0 BiTDI V6 (313 bg) quattro Tiptronic _	Teknik özellikler_ yakıt tüketimi _ Boyutlar.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>428</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Audi A7</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>27</ymin>
+			<xmax>592</xmax>
+			<ymax>347</ymax>
+		</bndbox>
+	</object>
+</annotation>

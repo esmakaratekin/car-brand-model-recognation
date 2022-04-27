@@ -1,0 +1,26 @@
+<annotation>
+	<folder>seat ibiza - Google Arama</folder>
+	<filename>Dosya_2004 SEAT Ibiza SX 1.2 Front.jpg - Vikipedi.jpg</filename>
+	<path>D:\.mrholo\EgitimModeli\images\seat ibiza - Google Arama\Dosya_2004 SEAT Ibiza SX 1.2 Front.jpg - Vikipedi.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4721</width>
+		<height>2575</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SEAT IBIZA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>229</ymin>
+			<xmax>4610</xmax>
+			<ymax>2472</ymax>
+		</bndbox>
+	</object>
+</annotation>

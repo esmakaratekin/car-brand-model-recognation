@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mitsubishi lancer - Google Arama</folder>
+	<filename>2. El 2013 Model Bordo_ Mitsubishi Lancer 78.000 TL _ Tasit.com.jpg</filename>
+	<path>D:\.MrHolo\Projeler\TOGG\bizim_egittimiz_model\images\mitsubishi lancer - Google Arama\2. El 2013 Model Bordo_ Mitsubishi Lancer 78.000 TL _ Tasit.com.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mitsubishi lancer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>119</ymin>
+			<xmax>531</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+</annotation>

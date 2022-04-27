@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mitsubishi lancer - Google Arama</folder>
+	<filename>2007 Mitsubishi Lancer Sportback X (GS44S) 1.8 MPI (143 bg) _ Teknik	özellikler_ yakıt tüketimi _ Boyutlar.jpg</filename>
+	<path>D:\.MrHolo\Projeler\TOGG\bizim_egittimiz_model\images\mitsubishi lancer - Google Arama\2007 Mitsubishi Lancer Sportback X (GS44S) 1.8 MPI (143 bg) _ Teknik	özellikler_ yakıt tüketimi _ Boyutlar.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1700</width>
+		<height>818</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mitsubishi lancer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>82</ymin>
+			<xmax>1626</xmax>
+			<ymax>769</ymax>
+		</bndbox>
+	</object>
+</annotation>

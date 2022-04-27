@@ -1,0 +1,14 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+1.jpg,640,476,Audi A7,25,158,615,376
+10.jpg,480,300,Mitsubishi lancer,18,22,465,269
+11.jpg,480,300,SEAT IBIZA,22,44,464,261
+12.jpg,480,360,Nissan Qashqai,38,42,459,329
+13.jpg,620,360,SEAT IBIZA,54,25,579,330
+2.jpg,1920,1080,Audi A7,271,344,1632,916
+3.jpg,630,300,Audi A7,119,22,503,239
+4.jpg,640,480,Audi A7,103,125,541,385
+5.jpg,1200,800,Audi A7,61,161,1133,694
+6.jpg,3200,1800,Nissan Qashqai,674,410,2651,1543
+7.jpg,2400,1600,Nissan Qashqai,64,413,2317,1416
+8.jpg,800,600,SEAT IBIZA,100,97,721,413
+9.jpg,4608,2831,Mitsubishi lancer,569,656,4280,2319

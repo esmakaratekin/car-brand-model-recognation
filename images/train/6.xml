@@ -1,0 +1,26 @@
+<annotation>
+	<folder>seat ibiza - Google Arama</folder>
+	<filename>2. El 2013 Model Kırmızı_ Seat Ibiza 141.900 TL _ Tasit.com.jpg</filename>
+	<path>D:\.mrholo\EgitimModeli\images\seat ibiza - Google Arama\2. El 2013 Model Kırmızı_ Seat Ibiza 141.900 TL _ Tasit.com.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SEAT IBIZA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>102</ymin>
+			<xmax>751</xmax>
+			<ymax>522</ymax>
+		</bndbox>
+	</object>
+</annotation>

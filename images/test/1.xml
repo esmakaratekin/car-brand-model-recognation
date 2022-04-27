@@ -1,0 +1,26 @@
+<annotation>
+	<folder>audi a7 - Google Arama</folder>
+	<filename>2019 Audi A7 Review_ Pricing_ and Specs.jpg</filename>
+	<path>D:\.MrHolo\Projeler\TOGG\bizim_egittimiz_model\images\test\1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>476</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Audi A7</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>158</ymin>
+			<xmax>615</xmax>
+			<ymax>376</ymax>
+		</bndbox>
+	</object>
+</annotation>

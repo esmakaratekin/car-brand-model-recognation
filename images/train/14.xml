@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mitsubishi lancer - Google Arama</folder>
+	<filename>2003 Mitsubishi Lancer IX 1.6i 16V (98 bg) _ Teknik özellikler_ yakıt	tüketimi _ Boyutlar.jpg</filename>
+	<path>D:\.MrHolo\Projeler\TOGG\bizim_egittimiz_model\images\mitsubishi lancer - Google Arama\2003 Mitsubishi Lancer IX 1.6i 16V (98 bg) _ Teknik özellikler_ yakıt	tüketimi _ Boyutlar.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>401</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mitsubishi lancer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>52</ymin>
+			<xmax>573</xmax>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+</annotation>

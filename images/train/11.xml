@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nissan q - Google Arama</folder>
+	<filename>2.El Satılık Nissan Qashqai İlanları _ Tasit.com.jpg</filename>
+	<path>D:\.mrholo\EgitimModeli\images\nissan q - Google Arama\2.El Satılık Nissan Qashqai İlanları _ Tasit.com.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nissan Qashqai</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>72</ymin>
+			<xmax>221</xmax>
+			<ymax>191</ymax>
+		</bndbox>
+	</object>
+</annotation>

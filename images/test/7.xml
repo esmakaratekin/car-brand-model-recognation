@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nissan q - Google Arama</folder>
+	<filename>Nissan Qashqai Tekna review _ Carbuyer.jpg</filename>
+	<path>D:\.mrholo\EgitimModeli\images\nissan q - Google Arama\Nissan Qashqai Tekna review _ Carbuyer.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2400</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nissan Qashqai</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>413</ymin>
+			<xmax>2317</xmax>
+			<ymax>1416</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nissan q - Google Arama</folder>
+	<filename>2021 Nissan Qashqai tanıtıldı_ İşte özellikleri (1).jpg</filename>
+	<path>D:\.mrholo\EgitimModeli\images\nissan q - Google Arama\2021 Nissan Qashqai tanıtıldı_ İşte özellikleri (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>675</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nissan Qashqai</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>145</xmin>
+			<ymin>118</ymin>
+			<xmax>1057</xmax>
+			<ymax>574</ymax>
+		</bndbox>
+	</object>
+</annotation>

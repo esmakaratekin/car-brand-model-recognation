@@ -1,0 +1,26 @@
+<annotation>
+	<folder>seat ibiza - Google Arama</folder>
+	<filename>Seat Ibiza 1.2 TSI (105 hp)Arabam Kaç Yakar _ Yakıt Tüketim Ansiklopedisi.jpg</filename>
+	<path>D:\.mrholo\EgitimModeli\images\seat ibiza - Google Arama\Seat Ibiza 1.2 TSI (105 hp)Arabam Kaç Yakar _ Yakıt Tüketim Ansiklopedisi.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SEAT IBIZA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>44</ymin>
+			<xmax>464</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+</annotation>

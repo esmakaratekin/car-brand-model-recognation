@@ -1,0 +1,26 @@
+<annotation>
+	<folder>seat ibiza - Google Arama</folder>
+	<filename>Dosya_Seat Ibiza (6J) – Frontansicht_ 25. April 2011_ Ratingen.jpg -	Vikipedi.jpg</filename>
+	<path>D:\.mrholo\EgitimModeli\images\seat ibiza - Google Arama\Dosya_Seat Ibiza (6J) – Frontansicht_ 25. April 2011_ Ratingen.jpg -	Vikipedi.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2358</width>
+		<height>1428</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SEAT IBIZA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>194</ymin>
+			<xmax>2218</xmax>
+			<ymax>1313</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nissan q - Google Arama</folder>
+	<filename>2014 Nissan Qashqai SUV _ new car sales pric.jpg</filename>
+	<path>D:\.mrholo\EgitimModeli\images\nissan q - Google Arama\2014 Nissan Qashqai SUV _ new car sales pric.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1140</width>
+		<height>643</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nissan Qashqai</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>112</ymin>
+			<xmax>1107</xmax>
+			<ymax>538</ymax>
+		</bndbox>
+	</object>
+</annotation>

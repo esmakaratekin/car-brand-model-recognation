@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nissan q - Google Arama</folder>
+	<filename>Nissan Qashqai SUV review _ Carbuyer.jpg</filename>
+	<path>D:\.mrholo\EgitimModeli\images\nissan q - Google Arama\Nissan Qashqai SUV review _ Carbuyer.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3200</width>
+		<height>1800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nissan Qashqai</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>674</xmin>
+			<ymin>410</ymin>
+			<xmax>2651</xmax>
+			<ymax>1543</ymax>
+		</bndbox>
+	</object>
+</annotation>

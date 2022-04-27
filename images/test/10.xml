@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mitsubishi lancer - Google Arama</folder>
+	<filename>Mitsubishi Lancer Evolution 9 (280 hp)Arabam Kaç Ya.jpg</filename>
+	<path>D:\.MrHolo\Projeler\TOGG\bizim_egittimiz_model\images\mitsubishi lancer - Google Arama\Mitsubishi Lancer Evolution 9 (280 hp)Arabam Kaç Ya.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mitsubishi lancer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>22</ymin>
+			<xmax>465</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+</annotation>

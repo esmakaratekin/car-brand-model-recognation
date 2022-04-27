@@ -1,0 +1,26 @@
+<annotation>
+	<folder>audi a7 - Google Arama</folder>
+	<filename>2014 Model Audi A7 3.0 Tdi Siyah 179.000 km_ Muğla - OTM-241895762 - Otonomi.jpg</filename>
+	<path>D:\.MrHolo\Projeler\TOGG\bizim_egittimiz_model\images\audi a7 - Google Arama\2014 Model Audi A7 3.0 Tdi Siyah 179.000 km_ Muğla - OTM-241895762 - Otonomi.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>438</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Audi A7</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>172</ymin>
+			<xmax>590</xmax>
+			<ymax>373</ymax>
+		</bndbox>
+	</object>
+</annotation>
